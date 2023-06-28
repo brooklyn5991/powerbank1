@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+.student{
+    color:  hsl(0, 0%, 100%);
+    text-align: center;
+}
+.pupil{
+    height: 500px;
+    background-color:  hsl(0, 0%, 100%);
+    width: 330px;
+    margin:100px  auto;
+    border-radius: 20px;
+    
+}
+img{
+    border-radius: 20px;
+    margin-top: 10px;
+    height: 300px;
+}
+
+.men{
+    padding: 8px 15px;
+}
+
+h1{
+    font-size: 15px;
+    color:  hsl(357, 95%, 52%);
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+p{
+   font-size: 15px;
+   font-weight: 400px;
+   color:  hsl(80, 67%, 50%); 
+}
